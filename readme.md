@@ -36,4 +36,3 @@ An interactive data visualization dashboard built using **Python** and **Tkinter
 ├── sentiment_dashboard.py         # Main application script
 ├── sentiment_data.csv             # Dataset (must be available locally)
 ├── README.md                      # Project documentation
-└── images/                        # Folder for project images and assets
